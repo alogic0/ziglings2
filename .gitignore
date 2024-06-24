@@ -3,6 +3,7 @@
 /answers/
 /patches/healed/
 /output/
+/tmp*
 
 # Leave this in here for older zig versions
 /zig-cache/
